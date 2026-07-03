@@ -1,6 +1,5 @@
 # Quantum Classifiers vs. Classical Classifiers
 
-Final project for COMP 360 (Wesleyan, Spring 2026).
 
 ## Install
 
